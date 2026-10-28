@@ -82,3 +82,6 @@ footer .tool { max-width: 620px; margin: 18px auto 0; font-size: 16px; }
   .hero img { animation: none; } .reveal { opacity: 1; transform: none; transition: none; } .work img { transition: none; }
 }
 @media (max-width: 600px) { section { padding: 76px 16px; } .credit { display: none; } }
+
+.yt-note { display: flex; gap: 10px; align-items: center; justify-content: center; flex-wrap: wrap; margin: 16px auto 0; font-size: 16px; }
+.yt-note svg { width: 26px; height: 26px; flex: none; }
